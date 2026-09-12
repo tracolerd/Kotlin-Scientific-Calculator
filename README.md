@@ -13,7 +13,7 @@ built entirely with **Kotlin** and **Java Swing** — zero external dependencies
 
 </div>
 
----
+----
 
 ## ✨ Features
 
