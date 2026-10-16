@@ -6,7 +6,6 @@
 
 <div align="center">
 
-# 🧮 Kotlin Scientific Calculator
 
 **A feature-rich, dark-themed Scientific Calculator**
 built entirely with **Kotlin** and **Java Swing** — zero external dependencies.
