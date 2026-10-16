@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120F2D,50:7C3AED,100:111827&height=190&section=header&text=Kotlin%20Scientific%20Calculator&fontSize=42&fontColor=F1F5F9&fontAlignY=38&animation=fadeIn&desc=Scientific%20and%20standard%20calculator%20in%20Kotlin%20and%20Swing&descAlignY=61&descSize=15" alt="Kotlin Scientific Calculator animated project banner" width="100%" />
+</p>
+
 <div align="center">
 
 # 🧮 Kotlin Scientific Calculator
@@ -316,3 +320,12 @@ Made by Faiyaz using Kotlin
 *"Kotlin — a language that makes Java developers fall in love again."*
 
 </div>
+
+---
+
+## Author & Development
+
+**Project author and solo developer:** [Nurul Faiyaz](https://github.com/tracolerd).
+
+This project is independently developed and maintained by Nurul Faiyaz. AI-assisted tools may be used as part of the development workflow; the project author remains responsible for technical decisions, code review, validation, and maintenance.
+
