@@ -165,8 +165,8 @@ kotlinc -version
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/kotlin-scientific-calculator.git
-cd kotlin-scientific-calculator
+git clone https://github.com/tracolerd/Kotlin-Scientific-Calculator.git
+cd Kotlin-Scientific-Calculator
 
 # 2. Compile  (produces calculator.jar)
 kotlinc Calculator.kt -include-runtime -d calculator.jar
@@ -272,8 +272,8 @@ All contributions are welcome — bug fixes, new features, or UI improvements!
 
 ```bash
 # 1. Fork and clone
-git clone https://github.com/your-username/kotlin-scientific-calculator.git
-cd kotlin-scientific-calculator
+git clone https://github.com/tracolerd/Kotlin-Scientific-Calculator.git
+cd Kotlin-Scientific-Calculator
 
 # 2. Create a branch
 git checkout -b feature/my-feature
