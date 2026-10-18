@@ -1,25 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120F2D,50:7C3AED,100:111827&height=190&section=header&text=Kotlin%20Scientific%20Calculator&fontSize=42&fontColor=F1F5F9&fontAlignY=38&animation=fadeIn&desc=Scientific%20and%20standard%20calculator%20in%20Kotlin%20and%20Swing&descAlignY=61&descSize=15" alt="Kotlin Scientific Calculator animated project banner" width="100%" />
+  <img src="assets/readme-hero.svg" alt="Kotlin Scientific Calculator — custom animated project banner" width="100%" />
 </p>
+
 <h1 align="center">Kotlin Scientific Calculator</h1>
 
+<p align="center">
+  <strong>Scientific functions in a focused desktop interface.</strong><br/>
+  A Kotlin and Swing calculator with grouped expressions, trigonometry, degree/radian mode and a practical standard-calculator workflow.
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-Language-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin — Language" /></a>
+  <a href="https://adoptium.net/"><img src="https://img.shields.io/badge/JVM-Runtime-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="JVM — Runtime" /></a>
+  <a href="https://docs.oracle.com/javase/tutorial/uiswing/"><img src="https://img.shields.io/badge/Swing-Desktop_UI-2563EB?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Swing — Desktop UI" /></a>
+</p>
 
+<p align="center">
+  <a href="#project-details">Project details</a> · <a href="#project-setup">Get started</a> · <a href="#project-architecture">How it works</a> · <a href="#creator-developer-maintainer">Creator</a>
+</p>
 
-**A feature-rich, dark-themed Scientific Calculator**
-built entirely with **Kotlin** and **Java Swing** — zero external dependencies.
+---
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.3%2B-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![JVM](https://img.shields.io/badge/JVM-8%2B-ED8B00?logo=openjdk&logoColor=white)](https://adoptium.net)
-[![Swing](https://img.shields.io/badge/GUI-Java%20Swing-007396)](#)
-[![License](https://img.shields.io/badge/License-MIT-22c55e)](#license)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-64748b)](#)
-
-</div>
-
-----
-
+<a id="project-details"></a>
 ## ✨ Features
 
 ### 🔢 Standard Calculator
@@ -88,6 +90,7 @@ built entirely with **Kotlin** and **Java Swing** — zero external dependencies
 
 ---
 
+<a id="project-setup"></a>
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -221,6 +224,7 @@ kotlin-scientific-calculator/
 
 ---
 
+<a id="project-architecture"></a>
 ## 🛠️ Architecture
 
 ```
@@ -309,20 +313,20 @@ out/
 ---
 ---
 
+---
+
 ## Creator, Developer & Maintainer
 
-**Created, designed, developed, and maintained by [Nurul Faiyaz](https://github.com/tracolerd).**
-
-This project is independently built and maintained by Nurul Faiyaz. The project's design, implementation, and documentation are his work.
+**Created, designed, developed, documented, and maintained independently by [Nurul Faiyaz](https://github.com/tracolerd).**
 
 <p align="center">
-  <a href="https://www.facebook.com/faiyaz.888"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/tracolerd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/faiyaz-xyz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/faiyaz_explores"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/tracolerd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:scrollfaiyaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://nurul-faiyaz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
+  <a href="https://www.facebook.com/faiyaz.888"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/tracolerd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/faiyaz-xyz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/faiyaz_explores"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+  <a href="https://github.com/tracolerd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:scrollfaiyaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://nurul-faiyaz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Website" /></a>
 </p>
 
 <p align="center">
@@ -335,18 +339,6 @@ This project is independently built and maintained by Nurul Faiyaz. The project'
   <a href="https://nurul-faiyaz.netlify.app/">Website</a>
 </p>
 
-## 📜 License
+## License
 
-This project is released under the **MIT License** — free to use, modify, and distribute.
-
----
-
-<div align="center">
-
-Made by Faiyaz using Kotlin
-
-*"Kotlin — a language that makes Java developers fall in love again."*
-
-</div>
-
----
+See [LICENSE](LICENSE) for the license terms.
